@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+      <channel>
+          <title>
+              Hamm - Bitcoin und Wirtschaft
+          </title>
+          <description>
+              Interessante Bitcoin-Basics und andere Wirtschaftsthemen
+          </description>
+          <link>
+              https://hamm-bitcoin-und-wirtschaft.github.io
+          </link>
+          <image>
+              <url>
+                  https://hamm-bitcoin-und-wirtschaft.github.io/hamm-bitcoin-und-wirtschaft.png
+              </url>
+              <title>
+                  Hamm - Bitcoin und Wirtschaft Logo
+              </title>
+              <link>
+                  https://hamm-bitcoin-und-wirtschaft.github.io
+              </link>
+              <description>
+                  Hier erfahren Sie alles zum Thema Bitcoin
+              </description>
+          </image>
+          <language>
+              de-de
+          </language>
+          <copyright>
+              CC hamm-bitcoin-und-wirtschaft.github.io 2020
+          </copyright>
+          <managingEditor>
+              david.hamm@hammwerk.de (David Hamm)
+          </managingEditor>
+          <webMaster>
+              david.hamm@hammwerk.de (David Hamm)
+          </webMaster>
+          <category>
+              Finance
+          </category>
+          <ttl>
+              600
+          </ttl>
+          <item>
+              <title>
+                  Unternehmer vs. Investor
+              </title>
+              <link>
+                  https://hamm-bitoin-und-wirtschaft.github.io/unternehmer-vs-investore.htm
+              </link>
+              <description>
+                  In Dieser Ausgabe kläre ich die Frage wofür wir Investoren in unserer Gesellschaft brauchen und was der Unterschied zwischen einem Unternehmer und einem Investor ist.
+              </description>
+              <author>
+                  david.hamm@hammwerk.de (David Hamm)
+              </author>
+              <enclosure url="https://hamm-bitcoin-und-wirtschaft.github.io/mp3s/Unternehmer%20vs%20Investor.mp3" 
+                  length="6352255" 
+                  type="audio/mpeg"
+              />
+          </item>
+      </channel>
+  </rss>
