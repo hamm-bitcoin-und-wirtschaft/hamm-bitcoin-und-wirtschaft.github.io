@@ -36,6 +36,9 @@
           <webMaster>
               david.hamm@hammwerk.de (David Hamm)
           </webMaster>
+          <itunes:owner>
+              <itunes:email>david.hamm@hammwerk.de</itunes:email>
+          </itunes:owner>
           <category>
               Finance
           </category>
