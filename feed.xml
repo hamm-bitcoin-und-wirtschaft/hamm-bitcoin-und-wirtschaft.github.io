@@ -64,5 +64,24 @@
                   type="audio/mpeg"
               />
           </item>
+          <item>
+              <title>
+                  450 % Bitcoin-Kursrally - Noch einsteigen?
+              </title>
+              <link>
+                  https://hamm-bitoin-und-wirtschaft.github.io/450-%25-kursrally-noch-einsteigen.htm
+              </link>
+              <description>
+                  In Dieser Ausgabe gebe ich meine Ratschläge, ob man Bitcoin noch kaufen sollte oder ob wir schon am Höhepunkt angekommen sind. Die genannten Punkte sollen als Gedankenanstöße gelten und sind keine Anlageempfehlung.
+              </description>
+              <author>
+                  david.hamm@hammwerk.de (David Hamm)
+              </author>
+              <pubDate>Thu, 07 Jan 2021 22:00:00 GMT</pubDate>
+              <enclosure url="https://hamm-bitcoin-und-wirtschaft.github.io/mp3s/450%20%25%20Bitcoin-Kursrally%20-%20Noch%20einsteigen%3F.mp3" 
+                  length="14528590" 
+                  type="audio/mpeg"
+              />
+          </item>
       </channel>
   </rss>
